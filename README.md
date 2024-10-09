@@ -17,8 +17,9 @@ Here’s a quick preview of how the app looks:
 
 | Feature            | Screenshot                              |
 | ------------------ | --------------------------------------- |
-| Calculator Home     | ![Calculator Home]( https://postimg.cc/rdV7bcTD)    |
-| Performing Operations | ![Operations](https://ibb.co/whcW71X) |
+| Calculator Home     | ![Calculator Home](<img src="https://ibb.co/fnyhzHY">)    |
+| Performing Operations | ![Operations](<img src="https://ibb.co/whcW71X">) |
+
 
 
 ## 📝 Features
