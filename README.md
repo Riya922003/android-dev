@@ -17,10 +17,9 @@ Here’s a quick preview of how the app looks:
 
 | Feature            | Screenshot                              |
 | ------------------ | --------------------------------------- |
-| Calculator Home     | ![Calculator Home](path-to-home-img)    |
-| Performing Operations | ![Operations](path-to-operations-img) |
+| Calculator Home     | ![Calculator Home]( https://postimg.cc/rdV7bcTD)    |
+| Performing Operations | ![Operations](https://ibb.co/whcW71X) |
 
-> **Note:** Replace `path-to-home-img` and `path-to-operations-img` with the actual paths or URLs of the screenshots.
 
 ## 📝 Features
 
