@@ -15,10 +15,11 @@ The **Simple Calculator App** is a lightweight and easy-to-use calculator design
 
 Here’s a quick preview of how the app looks:
 
-| Feature            | Screenshot                              |
-| ------------------ | --------------------------------------- |
-| Calculator Home     | ![Calculator Home](<img src="https://ibb.co/fnyhzHY">)    |
-| Performing Operations | ![Operations](<img src="https://ibb.co/whcW71X">) |
+<a href="https://ibb.co/fnyhzHY"><img src="https://i.ibb.co/P9P7vgZ/calc1.png" alt="calc1" border="0"></a>
+<a href="https://ibb.co/whcW71X"><img src="https://i.ibb.co/yF4ypJ1/calc2.png" alt="calc2" border="0"></a>
+<a href="https://ibb.co/RTbZbhM"><img src="https://i.ibb.co/jkfBfVx/calc3.png" alt="calc3" border="0"></a>
+<a href="https://ibb.co/bsN2Rsz"><img src="https://i.ibb.co/m9hXF96/calc4.png" alt="calc4" border="0"></a>
+
 
 
 
@@ -36,7 +37,8 @@ Feel free to create issues if you find any bugs, have suggestions, or want to co
 
 1. Clone or download the repository.
 2. Open the project in Android Studio.
-3. Build and run the app on an emulator or a physical Android device.
+3. connect emulator
+4. run main.java file 
 
 ---
 
