@@ -21,8 +21,6 @@ Here’s a quick preview of how the app looks:
 <a href="https://ibb.co/bsN2Rsz"><img src="https://i.ibb.co/m9hXF96/calc4.png" alt="calc4" border="0"></a>
 
 
-
-
 ## 📝 Features
 
 - Basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.
