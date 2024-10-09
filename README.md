@@ -8,8 +8,15 @@ The **Simple Calculator App** is a lightweight and easy-to-use calculator design
 
 ## 🛠️ Technologies Used
 
-- **Java**: All the core functionality and business logic of the calculator are implemented in Java.
-- **XML**: The user interface (UI) is designed using XML to create an intuitive and minimalistic layout.
+   <a href="https://www.arduino.cc/en/Guide/Introduction">
+        <img src="https://skillicons.dev/icons?i=java"/>
+    </a>
+       <a href="https://www.arduino.cc/en/Guide/Introduction">
+        <img src="https://skillicons.dev/icons?i=androidstudio"/>
+    </a>
+       <a href="https://www.arduino.cc/en/Guide/Introduction">
+        <img src="https://skillicons.dev/icons?i=gradle"/>
+    </a>
 
 ## 🖼️ Preview
 
